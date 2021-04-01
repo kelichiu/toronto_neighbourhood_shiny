@@ -1,0 +1,12 @@
+name: toronto_nbhoods
+title: toronto_nbhoods
+username:
+account: kelichiu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3888536
+bundleId: 4420414
+url: https://kelichiu.shinyapps.io/toronto_nbhoods/
+when: 1617282202.97504
+asMultiple: FALSE
+asStatic: FALSE
